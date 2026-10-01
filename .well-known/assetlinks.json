@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.myspotifydrive",
+      "sha256_cert_fingerprints": [
+        "5D:C0:20:7E:34:10:C7:05:9E:86:85:00:C8:CB:5A:21:2D:79:1C:BE:58:EF:4D:75:96:E3:57:F3:05:9A:CC:0E"
+      ]
+    }
+  }
+]
